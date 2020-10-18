@@ -77,10 +77,16 @@
                 // 如何进行链接传值
                 echo "</tr>";
                 // echo $value."<br>";
+         //$ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
             }
         }
         ?>
     </table>
 
+    git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+
+    plugins=(zsh-syntax-highlighting)
+
+    source ~/.zsh
 </body>
 </html>
