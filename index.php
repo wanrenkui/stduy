@@ -17,7 +17,11 @@
 
 <h3>添加用户</h3>
 <form action="add-user.php" method="post">
+<<<<<<< HEAD
     <table width="500" border="0" cellpadding="4">
+=======
+    <table width="380" border="0" cellpadding="4">
+>>>>>>> cb8f558e783b74a37179d288cea6591cd7e300c9
         <tr> <!-- 使用输入域定义姓名输入框 -->
             <th>姓名：</th>
             <td><input type="text" name="username" size="20"></td>
@@ -50,4 +54,8 @@
     </table>
 </form>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> cb8f558e783b74a37179d288cea6591cd7e300c9

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,6 +21,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="144a5422-76ca-4e36-8fea-6d0c3f54dd31" name="Default Changelist" comment="" />
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="7df791b8-1df2-4756-b849-892bbf0f6515" name="Default Changelist" comment="" />
+>>>>>>> cb8f558e783b74a37179d288cea6591cd7e300c9
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,11 +33,15 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gitskills" />
   </component>
   <component name="ProjectId" id="1jMUq9zkYK4eok7gE3brS6wFyAs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="ProjectId" id="1iixLGqwwLZOwUqKHseHKbn0gXa" />
+>>>>>>> cb8f558e783b74a37179d288cea6591cd7e300c9
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,6 +56,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+<<<<<<< HEAD
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -60,22 +70,40 @@
         <item itemvalue="PHP Script.add-user.php" />
       </list>
     </recent_temporary>
+=======
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+>>>>>>> cb8f558e783b74a37179d288cea6591cd7e300c9
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="144a5422-76ca-4e36-8fea-6d0c3f54dd31" name="Default Changelist" comment="" />
       <created>1603613643598</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603613643598</updated>
       <workItem from="1603613645293" duration="22916000" />
+=======
+      <changelist id="7df791b8-1df2-4756-b849-892bbf0f6515" name="Default Changelist" comment="" />
+      <created>1602404156279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602404156279</updated>
+      <workItem from="1602404157478" duration="18741000" />
+>>>>>>> cb8f558e783b74a37179d288cea6591cd7e300c9
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -100,5 +128,16 @@
       <screen x="0" y="23" width="1680" height="967" />
     </state>
     <state x="483" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.967@0.23.1680.967" timestamp="1603623107060" />
+=======
+  <component name="WindowStateProjectService">
+    <state x="616" y="454" key="NewPhpFileDialog" timestamp="1602413573520">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="616" y="454" key="NewPhpFileDialog/0.23.1680.963/-363.-1177.1920.1177@0.23.1680.963" timestamp="1602413573520" />
+    <state x="398" y="223" width="604" height="735" key="find.popup" timestamp="1602684099632">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="398" y="223" width="604" height="735" key="find.popup/0.23.1680.960@0.23.1680.960" timestamp="1602684099632" />
+>>>>>>> cb8f558e783b74a37179d288cea6591cd7e300c9
   </component>
 </project>

@@ -27,6 +27,7 @@ $age = $_GET["age"]; // 用户年龄
 $profile = $_GET["profile"]; // 用户内容
 $addtime = time(); // 添加时间 （时间戳的格式）
 // 2，信息展示
+<<<<<<< HEAD
 echo "<h4>要修改的信息是：</h4>";
 echo "<h4>id:$id</h4>";
 echo "<h4>用户名：$name</h4>";
@@ -40,6 +41,17 @@ echo "<h4>个人简介：$profile</h4>";
 
         <tr> <!-- 使用数字输入域定义第几行输入框 -->
             <th >id：</th>
+=======
+echo "要修改的信息为：第","$id"+1,"行","信息为:\n","用户名：$name  \n","性别：$sex  \n","年龄：$age  \n","个人简介：$profile  \n";
+
+?>
+
+<form action="modify.php" method="post">
+    <table width="380" border="0" cellpadding="4">
+
+        <tr> <!-- 使用数字输入域定义第几行输入框 -->
+            <th>行数：</th>
+>>>>>>> cb8f558e783b74a37179d288cea6591cd7e300c9
             <td><input type="number" name="id" size="20"></td>
         </tr>
 
