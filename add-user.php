@@ -24,7 +24,7 @@
     $addtime = time(); // 添加时间 （时间戳的格式）
 
     // 2.拼装（组装）留言信息
-<<<<<<< HEAD
+
     //$ly = "{$name}|{$sex}|{$age}|{$profile}|{$addtime}@@@";
 
     // 3.将留言信息追加到user.txt文件中
@@ -55,16 +55,15 @@
     };
     //echo "添加成功！谢谢...";
 
-=======
-    $ly = "{$name}|{$sex}|{$age}|{$profile}|{$addtime}@@@";
+    //$ly = "{$name}|{$sex}|{$age}|{$profile}|{$addtime}@@@";
 
     // 3.将留言信息追加到user.txt文件中
-    $info = file_get_contents("user.txt"); // 获取所有以前的留言
-    file_put_contents("user.txt", $info . $ly); // 覆盖式的写入，会对原有数据进行覆盖
+    //$info = file_get_contents("user.txt"); // 获取所有以前的留言
+    //file_put_contents("user.txt", $info . $ly); // 覆盖式的写入，会对原有数据进行覆盖
 
     // 4.输出留言成功
     echo "添加成功！谢谢...";
->>>>>>> cb8f558e783b74a37179d288cea6591cd7e300c9
+// cb8f558e783b74a37179d288cea6591cd7e300c9
 
     ?>
 </body>

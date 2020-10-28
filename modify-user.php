@@ -27,7 +27,6 @@ $profile = $_GET["profile"]; // 用户内容
 $addtime = time(); // 添加时间 （时间戳的格式）
 
 // 2,从留言user.txt信息文件中获取留言信息
-<<<<<<< HEAD
 //$info = file_get_contents("user.txt");
 
 // 3,以@@@符合拆分留言信息为一条一条的（将留言信息以@@@的符号拆分成留言数组）
@@ -56,22 +55,21 @@ else{
 // 6
 //echo "第","$id"+1,"行","修改为:\n","用户名：$name  \n","性别：$sex  \n","年龄：$age  \n","个人简介：$profile  \n";
 //echo "修改成功！！";
-=======
-$info = file_get_contents("user.txt");
 
-// 3,以@@@符合拆分留言信息为一条一条的（将留言信息以@@@的符号拆分成留言数组）
-$lylist = explode("@@@", $info);
-
-// 4，更新指定ID的用户
-$lylist[$id]="{$name}|{$sex}|{$age}|{$profile}|{$addtime}@@@";
-
-// 5,还原用户信息为字串，并写回留言文件：user.txt
-$ninfo = implode("@@@", $lylist);
-file_put_contents("user.txt", $ninfo);
-// 6
-echo "第","$id"+1,"行","修改为:\n","用户名：$name  \n","性别：$sex  \n","年龄：$age  \n","个人简介：$profile  \n";
-echo "修改成功！！";
->>>>>>> cb8f558e783b74a37179d288cea6591cd7e300c9
+//$info = file_get_contents("user.txt");
+//
+//// 3,以@@@符合拆分留言信息为一条一条的（将留言信息以@@@的符号拆分成留言数组）
+//$lylist = explode("@@@", $info);
+//
+//// 4，更新指定ID的用户
+//$lylist[$id]="{$name}|{$sex}|{$age}|{$profile}|{$addtime}@@@";
+//
+//// 5,还原用户信息为字串，并写回留言文件：user.txt
+//$ninfo = implode("@@@", $lylist);
+//file_put_contents("user.txt", $ninfo);
+//// 6
+//echo "第","$id"+1,"行","修改为:\n","用户名：$name  \n","性别：$sex  \n","年龄：$age  \n","个人简介：$profile  \n";
+//echo "修改成功！！";
 
 ?>
 
