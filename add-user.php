@@ -16,6 +16,8 @@
     <?php
     // 执行留言信息添加操作
 
+    htmlspecialchars();
+    addslashes();
     // 1.获取要添加的用户信息，并且补上添加时间
     $name = $_POST['username']; // 用户名
     $sex = $_POST["sex"]; // 用户性别

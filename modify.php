@@ -7,8 +7,7 @@
 </head>
 <body>
 <?php
-
-include 'menu.php'; // 导入网站的导航栏
+    include 'menu.php'; // 导入网站的导航栏
 ?>
 
 <h3>添加用户</h3>
