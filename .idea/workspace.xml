@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="144a5422-76ca-4e36-8fea-6d0c3f54dd31" name="Default Changelist" comment="" />
+    <list default="true" id="144a5422-76ca-4e36-8fea-6d0c3f54dd31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/array.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add-user.php" beforeDir="false" afterPath="$PROJECT_DIR$/add-user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modify.php" beforeDir="false" afterPath="$PROJECT_DIR$/modify.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +37,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gitskills" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jMUq9zkYK4eok7gE3brS6wFyAs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,12 +59,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.array.php">
     <configuration name="add-user.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/add-user.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="array.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/array.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.array.php" />
         <item itemvalue="PHP Script.add-user.php" />
       </list>
     </recent_temporary>
@@ -70,6 +82,9 @@
       <option name="presentableId" value="Default" />
       <updated>1603613643598</updated>
       <workItem from="1603613645293" duration="22916000" />
+      <workItem from="1603954088161" duration="927000" />
+      <workItem from="1603965698180" duration="41000" />
+      <workItem from="1603965813904" duration="7870000" />
     </task>
     <servers />
   </component>
@@ -86,11 +101,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="599" y="426" key="NewPhpFileDialog" timestamp="1603804932585">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state x="599" y="425" key="NewPhpFileDialog" timestamp="1603984305145">
+      <screen x="0" y="23" width="1680" height="965" />
     </state>
+    <state x="599" y="425" key="NewPhpFileDialog/0.23.1680.965@0.23.1680.965" timestamp="1603984305145" />
     <state x="599" y="426" key="NewPhpFileDialog/0.23.1680.967@0.23.1680.967" timestamp="1603804932585" />
     <state x="281" y="135" key="SettingsEditor" timestamp="1603708339694">
       <screen x="0" y="23" width="1680" height="966" />
