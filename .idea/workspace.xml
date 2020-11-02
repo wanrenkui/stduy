@@ -20,94 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="144a5422-76ca-4e36-8fea-6d0c3f54dd31" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/.env 2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/.styleci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Console/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Exceptions/Handler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Http/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Http/Middleware/TrimStrings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Http/Middleware/TrustHosts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Http/Middleware/TrustProxies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/artisan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/bootstrap/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/bootstrap/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/config/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/config/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/config/broadcasting.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/config/cache.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/config/cors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/config/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/config/filesystems.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/config/hashing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/config/logging.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/config/mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/config/queue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/config/services.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/config/session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/config/view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/database/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/database/factories/UserFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/public/web.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/resources/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/resources/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/resources/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/resources/lang/en/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/resources/lang/en/pagination.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/resources/lang/en/passwords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/resources/lang/en/validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/resources/views/welcome.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/routes/api.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/routes/channels.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/routes/console.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/routes/web.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/storage/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/storage/app/public/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/storage/framework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/storage/framework/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/storage/framework/cache/data/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/storage/framework/sessions/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/storage/framework/testing/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/storage/framework/views/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/storage/logs/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/tests/CreatesApplication.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/tests/Feature/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/tests/TestCase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/tests/Unit/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/webpack.mix.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/html.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/html.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/app/Greeting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/database/migrations/2018_06_03_123123_create_greetings_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -288,7 +204,7 @@
       <workItem from="1603954088161" duration="927000" />
       <workItem from="1603965698180" duration="41000" />
       <workItem from="1603965813904" duration="7870000" />
-      <workItem from="1604281226724" duration="1830000" />
+      <workItem from="1604281226724" duration="3560000" />
     </task>
     <servers />
   </component>
@@ -314,10 +230,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="599" y="425" key="NewPhpFileDialog" timestamp="1603984305145">
+    <state x="599" y="425" key="NewPhpFileDialog" timestamp="1604289388131">
       <screen x="0" y="23" width="1680" height="965" />
     </state>
-    <state x="599" y="425" key="NewPhpFileDialog/0.23.1680.965@0.23.1680.965" timestamp="1603984305145" />
+    <state x="599" y="425" key="NewPhpFileDialog/0.23.1680.965@0.23.1680.965" timestamp="1604289388131" />
     <state x="599" y="426" key="NewPhpFileDialog/0.23.1680.967@0.23.1680.967" timestamp="1603804932585" />
     <state x="281" y="135" key="SettingsEditor" timestamp="1604042989090">
       <screen x="0" y="23" width="1680" height="967" />
